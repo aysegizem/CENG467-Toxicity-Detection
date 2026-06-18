@@ -2,4 +2,7 @@ pandas
 scikit-learn
 jupyter
 transformers
+torch
+datasets
+groq
 rouge-score
